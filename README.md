@@ -4,7 +4,7 @@
 
 代码结构如下：
   
-  baseMvp：mvp的抽象
+  basemvp：mvp的抽象
 
   entity：实体类
 

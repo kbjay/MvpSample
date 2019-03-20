@@ -8,8 +8,8 @@
 
   entity：实体类
 
-  module：根据业务逻辑划分的模块，每个模块包含v跟p\n
+  module：根据业务逻辑划分的模块，每个模块包含v跟p<br>
         .base:对应模块的view层抽象
 
-  model：数据层\n
+  model：数据层<br>
         .base:数据层抽象
